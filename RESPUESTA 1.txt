@@ -1,0 +1,1 @@
+El microcontrolado es un chip, un componente electrónico se encuentran integrados todos sus periféricos.
