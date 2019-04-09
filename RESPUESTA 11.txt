@@ -1,0 +1,4 @@
+Usando el datasheet del PIC16F886 identifique los siguientes puntos:
+*
+* 31 kHz y 8 MHz
+* RAM de 368 Bytes
