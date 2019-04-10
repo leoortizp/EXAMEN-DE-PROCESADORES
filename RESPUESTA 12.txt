@@ -1,0 +1,6 @@
+void main (void){
+TRISC | = 0X0F; //INPUT
+TRISC & = ~0XF0; //OUTPUT
+PORTB | = 0X03; //ALTO
+PORTB & = ~0X0C; //BAJO
+}
